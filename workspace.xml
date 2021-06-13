@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a1c5145-c143-4401-868f-12e6edc653ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ez8BXtHCviOb4vtez0vmXBGBWp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Re - CW01 Application" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ReCW01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReCW01" />
+      <module name="Re - CW01 Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReCW01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a1c5145-c143-4401-868f-12e6edc653ce" name="Default Changelist" comment="" />
+      <created>1595312925875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595312925875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="64" key="GridCell.Tab.0.bottom" timestamp="1608738794747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="64" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608738794747" />
+    <state width="1323" height="64" key="GridCell.Tab.0.center" timestamp="1608738794747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="64" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608738794747" />
+    <state width="1323" height="64" key="GridCell.Tab.0.left" timestamp="1608738794731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="64" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608738794731" />
+    <state width="1323" height="64" key="GridCell.Tab.0.right" timestamp="1608738794747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="64" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608738794747" />
+    <state x="65" y="0" key="new project wizard" timestamp="1602509775408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1602509775408" />
+  </component>
+</project>
